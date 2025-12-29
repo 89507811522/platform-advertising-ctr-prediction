@@ -39,21 +39,6 @@ venv.bak/
 *.swp
 *.swo
 
-*.csv
-*.pkl
-*.joblib
-*.h5
-*.hdf5
-*.npy
-*.npz
-data/
-
-ds_s16_ad_click_dataset.csv
-
-# Model files (уже есть в репозитории, но новые не коммитить)
-# ad_click_*.joblib
-# selected_features_indices.joblib
-
 # OS
 .DS_Store
 Thumbs.db
